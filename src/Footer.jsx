@@ -100,7 +100,13 @@ const Footer = () => {
 
            
           </div>
-
+          <div className="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+            <a href="https://vegitable-shop-app.vercel.app/" className="nav-link p-0 text-muted">
+                  <h2>Contact Form</h2>
+                  </a>
+            
+            
+          </div>
           <div className="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
             <p>Hari Narayan</p>
             
